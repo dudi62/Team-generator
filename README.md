@@ -4,7 +4,8 @@
 
 This is a Node.js command-line application that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-![Screenshot of application](./path-to-your-screenshot.png)
+![team-generator](https://github.com/dudi62/Team-generator/assets/63518444/06b4e10f-62b9-4bf0-96a2-b3cc3975c121)
+
 
 ## Installation
 
