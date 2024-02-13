@@ -41,5 +41,5 @@ This project is licensed under the MIT License.
 
 ## Links
 
-- [GitHub Repository][(https://github.com/tdudi62/Team-generator)](https://dudi62.github.io/Team-generator/)
-- [Deployed Application][(https://dudi62.github.io/Team-generator/)https://dudi62.github.io/Team-generator/)
+- [GitHub Repository](https://github.com/dudi62/Team-generator)
+- [Deployed Application](https://dudi62.github.io/Team-generator/)
